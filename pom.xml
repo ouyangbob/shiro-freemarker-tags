@@ -5,20 +5,20 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>shiro-freemarker-tags</artifactId>
-    <groupId>com.jagregory</groupId>
+    <groupId>top.oybt</groupId>
     <version>0.1-SNAPSHOT</version>
 
     <dependencies>
         <dependency>
             <groupId>org.apache.shiro</groupId>
-            <artifactId>shiro-all</artifactId>
-            <version>1.1.0</version>
+            <artifactId>shiro-core</artifactId>
+            <version>1.4.1</version>
         </dependency>
 
         <dependency>
             <groupId>org.freemarker</groupId>
             <artifactId>freemarker</artifactId>
-            <version>2.3.18</version>
+            <version>2.3.29</version>
         </dependency>
     </dependencies>
 
